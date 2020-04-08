@@ -3,7 +3,7 @@ Safe Harbor De-Identification
 
 To Build/Run the API:  
 
-  generate a .war file with "mvn package", run under Tomcat (I ran with Tomcat 9.0.33)
+  generate a .war file with "mvn package", run under Tomcat (I ran with Tomcat 9.0.33). Alternatively, can be run using Eclipse.
 
 
 
